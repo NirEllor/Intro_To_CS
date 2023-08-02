@@ -1,0 +1,5 @@
+<1. We added background music, initiated in each game round.
+ 2. We added sound at each time the user decides to submit a valid word
+ 3. Our design is responsive and handles different size of rectangle boards
+ 4. The user can remove letters at each place in the word he builds
+ >
