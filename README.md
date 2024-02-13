@@ -1,1 +1,1 @@
-The following folders contain python files of exercises I coded in Intro to CS course at HUJI, as a computer science student. The higher the number - The complicated the task.
+The following folders contain python files of exercises I coded in Intro to CS course at HUJI, as a computer science student. The higher the number of the folder - The latest the exercise was given in the course.
