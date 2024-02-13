@@ -1,1 +1,1 @@
-The following folders contain python files of exercises I coded in Intro to CS course at HUJI, as a computer science student. The higher the number of the folder - The latest the exercise was given in the course.
+The following repository contains folders of projects I coded in Python as part of a B.Sc. in CS in The Hebrew University of Jerusalem
